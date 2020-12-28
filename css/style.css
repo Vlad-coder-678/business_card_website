@@ -597,7 +597,7 @@ a svg:hover {
     display: none;
   }
   .header .header__container .header__top .header_contacts .header__burger-svg {
-    padding-right: 8%;
+    padding-right: 20px;
     padding-top: 10%;
   }
   .header .header__container .header__top .header__menu {
